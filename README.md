@@ -32,7 +32,7 @@ The main goal is to provide a strong understanding before moving on to more comp
 
 * **Framework:** Laravel 11
 * **Language:** PHP
-* **Database:** (Replace with your database, e.g., MySQL, SQLite)
+* **Database:**  MySQL
 * **Web Server:** (e.g., Apache, Nginx - via Laragon, XAMPP)
 
 ---
